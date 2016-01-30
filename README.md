@@ -1,4 +1,4 @@
 # fluffy-world
-A fluffy dummy repository for learning/practiving
+A fluffy dummy experimental repository for learning/practicing
 
 Let's keep learning some GIT!
